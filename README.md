@@ -1,7 +1,7 @@
 # Dipolemoment-plugin
 This is a plugin for PyMol 2.x to calculate and show the dipole moment vector of a proteine structure in pdb format. It is coded in Python 3 with PyQT5 (PySide2).  Charge attributions are performed using pdb2pqr (https://pdb2pqr.readthedocs.io/en/latest/getting.html) with the PARSE force field.
 
-![image](https://user-images.githubusercontent.com/102952395/161939159-0e994963-59fd-4ad8-aae0-cb26a8b26e9c.png)
+![image](https://user-images.githubusercontent.com/102952395/161942328-269f86da-f86c-472c-afe2-407d3fed088d.png)
 
 Method:\
 I)   Calculate the center of Mass of the protein (COM). \
